@@ -1,4 +1,4 @@
-# https://sdkdeepa.github.io/index.html
+# https://sdkdeepa.github.io/
 
 Web Designer for everyone coursera project!
 
