@@ -2,5 +2,5 @@
 
 Web Designer for everyone coursera project!
 
-CSS homework1- Please go to 
-https://sdkdeepa.github.io/blob/master/assignment-1/index.html
+CSS homework2- Please go to 
+sdk.deepa-css-assignment2/index.html
